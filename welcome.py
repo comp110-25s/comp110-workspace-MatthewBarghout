@@ -5,3 +5,8 @@ __author__ = "01234567"
 print("Welcome to COMP110!")
 print("You are in for a fun adventure into programming!")
 print("<3 the COMP110 Team!")
+print("Hello")
+from random import random
+
+random_number = random()
+print(random_number)
